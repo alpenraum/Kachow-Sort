@@ -1,7 +1,7 @@
 import Util.KachowSort;
 
 import java.util.*;
-
+//TODO: DOCUMENTATION
 public class KachowSortedList<T extends Object> implements List<T> {
 
     private ArrayList<T> data;
