@@ -140,6 +140,7 @@ public class KachowSortedList<T extends Object> implements List<T> {
         return true;
     }
 
+    //TODO: fix that
     @Deprecated
     @Override
     public <T1> T1[] toArray(T1[] a) {
