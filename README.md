@@ -18,3 +18,6 @@ Let's face it. We both know that those fancy words don't mean anything to you. Y
 # Planed updates and Enhancements
 - support for more datastructures such as maps and trees
 - implementing a blockchain variant (Who doesn't like blockchain?)
+
+##known bugs
+- in certain edge cases the algorithm may not be stable.
